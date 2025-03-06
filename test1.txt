@@ -1,0 +1,10 @@
+ Datentr„ger in Laufwerk C: ist Windows-SSD
+ Volumeseriennummer: 267C-6B12
+
+ Verzeichnis von C:\Users\Shayan Yousef\Documents\Nelta\Neuer Ordner
+
+06.03.2025  14:15    <DIR>          .
+06.03.2025  14:11    <DIR>          ..
+06.03.2025  14:15                 0 test1.txt
+               1 Datei(en),              0 Bytes
+               2 Verzeichnis(se), 283.863.986.176 Bytes frei
